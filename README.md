@@ -31,12 +31,12 @@ Execute the program using runserver command.
 <center>
 <img src ="C:\Users\SEC\Pictures\Screenshots\webex3.png" >
 </center>
-<title>TIME TABLE_KEERTHANA JAYASRI (212222110019)</title>
+<title>TIME TABLE_KEERNA(212222110017)</title>
 </head>
 <body>
 
 <table align="center" width="600" cellspacing="2" cellpadding="2" border="2" bgcolor="white">
-<caption><b>TIME TABLE-KEERTHANA JAYASRI(212222110019)</b></caption><br>
+<caption><b>TIME TABLE-KARNA(212222110017)</b></caption><br>
 
 <th align bgcolor="cyan" >Date/Day</td>
 <td align bgcolor="cyan" >Monday</td>
@@ -158,6 +158,8 @@ Execute the program using runserver command.
 ```
 ## OUTPUT
 ![Output](<Screenshot (2).png>)
+![image](https://github.com/karnashankar/slot/assets/121109150/7cdf74ad-fff1-4e2b-9d0d-4d18cd2d0052)
+
 
 ## HTML VALIDATOR
 
